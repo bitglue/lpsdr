@@ -1,0 +1,8 @@
+*.pcb-
+*.sch~
+*.cmd
+*.new.pcb
+*sch#
+*.bak
+*.bak?
+*.backup
