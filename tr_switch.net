@@ -1,24 +1,19 @@
-unnamed_net18	R3-1 D2-1 
-unnamed_net17	U1-14 
-RFGND	J7-2 J6-2 J5-2 J4-2 
-unnamed_net16	S2-7 
-ptt_enable	U1-2 S2-6 
-unnamed_net15	J6-1 S2-4 
-unnamed_net14	J7-1 S2-3 
+unnamed_net6	Q1-1 R7-1 
+tx_relay	J11-1 J11-2 D2-2 R7-2 
+unnamed_net5	D2-1 R3-1 
+ant	J10-1 J10-2 J5-1 
+PGND	J10-4 J10-3 J9-4 J9-3 J8-4 J8-3 J2-4 J2-3 J7-2 J6-2 J5-2 J4-2 
++12V	Q1-2 R3-2 J1-1 J3-3 C3-2 
+unnamed_net4	S2-7 
+bias_in	J11-4 J11-3 S2-6 
+to_amp	J6-1 S2-4 
+highpass	J2-2 J2-1 S2-2 
+xcvr	J7-1 S2-3 
 RELAYS	Q1-3 D1-1 S2-1 S1-1 
-unnamed_net13	J3-2 S1-5 
-unnamed_net12	S1-7 
-unnamed_net11	S2-5 S1-6 
-unnamed_net10	J4-1 S1-4 
-rx_passthrough	S2-2 S1-2 
-unnamed_net9	J5-1 S1-3 
-unnamed_net8	Q1-1 R7-1 
-unnamed_net7	D2-2 U1-13 R7-2 
-unnamed_net6	J1-1 U1-7 R1-1 
-unnamed_net5	U1-4 R9-2 R8-1 
-unnamed_net4	U1-6 R2-1 R8-2 
-unnamed_net3	U1-10 R2-2 R6-1 
-GND	J1-2 J3-1 D1-2 U1-12 U1-8 U1-9 C4-1 C5-1 C3-1 C2-1 S2-8 S1-8 R9-1 C1-1 
-unnamed_net2	U1-11 U1-5 C1-2 R5-1 
-unnamed_net1	U1-1 R5-2 R4-1 
-+12V	J3-3 R3-2 Q1-2 C4-2 C5-2 C3-2 U1-3 C2-2 R1-2 R6-2 R4-2 
+GND	D1-2 J1-2 J3-1 C3-1 S2-8 S1-8 
+bias_out	J3-2 S1-5 
+unnamed_net3	S1-7 
+unnamed_net2	S2-5 S1-6 
+from_amp	J4-1 S1-4 
+unnamed_net1	J8-2 J8-1 S1-2 
+lowpass	J9-1 J9-2 S1-3 
