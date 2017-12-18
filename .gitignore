@@ -3,6 +3,7 @@
 *.cmd
 *.new.pcb
 *sch#
+*sym#
 *.bak
 *.bak?
 *.backup
