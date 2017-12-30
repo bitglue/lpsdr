@@ -1,72 +1,81 @@
-unnamed_net97	U1-9 R22-2 
-unnamed_net96	U1-11 R20-2 
-unnamed_net95	U1-10 R21-2 
-unnamed_net94	U1-7 R18-1 
-unnamed_net93	U1-6 R17-1 
-unnamed_net92	U1-5 R16-1 
-unnamed_net91	U1-4 R15-1 
+unnamed_net106	Q9-1 R23-1 
+unnamed_net105	Q8-1 R22-1 
+unnamed_net104	U1-9 R22-2 
+unnamed_net103	Q6-1 R20-1 
+unnamed_net102	U1-11 R20-2 
+unnamed_net101	Q7-1 R21-1 
+unnamed_net100	U1-10 R21-2 
+unnamed_net99	U1-7 R18-1 
+unnamed_net98	Q4-1 R18-2 
+unnamed_net97	U1-6 R17-1 
+unnamed_net96	Q3-1 R17-2 
+unnamed_net95	U1-5 R16-1 
+unnamed_net94	Q2-1 R16-2 
+unnamed_net93	U1-4 R15-1 
+unnamed_net92	Q1-1 R15-2 
+unnamed_net91	Q5-1 R19-1 
 unnamed_net90	U1-12 R19-2 
 unnamed_net89	U3-9 S1-6 
 unnamed_net88	U3-7 S1-3 
-unnamed_net87	S10-4 S9-4 S8-4 S6-7 S7-4 
-unnamed_net86	S5-5 S4-5 S3-5 S6-2 S2-5 
-unnamed_net85	S5-4 S4-4 S3-4 S1-7 S2-4 
-unnamed_net84	R23-1 Q9-B 
-unnamed_net83	R15-2 Q1-B 
-unnamed_net82	R16-2 Q2-B 
-unnamed_net81	R17-2 Q3-B 
-unnamed_net80	R18-2 Q4-B 
-unnamed_net79	R19-1 Q5-B 
-unnamed_net78	R20-1 Q6-B 
-unnamed_net77	R21-1 Q7-B 
-unnamed_net76	R22-1 Q8-B 
-LP1	S7-8 S2-8 Q1-C D9-2 
-unnamed_net75	R9-2 D9-1 
-LP2	S8-8 S3-8 Q2-C D8-2 
-unnamed_net74	R8-2 D8-1 
-LP3	S9-8 S4-8 Q3-C D7-2 
-unnamed_net73	R7-2 D7-1 
-LP4	S10-8 S5-8 Q4-C D6-2 
-unnamed_net72	R6-2 D6-1 
-ANT1	S11-8 Q5-C D5-2 
-unnamed_net71	R5-2 D5-1 
-ANT2	S12-8 Q6-C D4-2 
-unnamed_net70	R4-2 D4-1 
-ANT3	S13-8 Q7-C D3-2 
-unnamed_net69	R3-2 D3-1 
-ANT4	S14-8 Q8-C D2-2 
-unnamed_net68	R2-2 D2-1 
-TX	S1-8 S6-8 Q9-C D1-2 
-unnamed_net67	R1-2 D1-1 
-unnamed_net66	S7-6 S7-3 R28-2 
-unnamed_net65	S7-7 L19-1 C29-2 
-unnamed_net64	L19-2 C30-2 L20-1 
-unnamed_net63	C31-2 S7-2 L20-2 
-unnamed_net62	S10-6 S10-3 R31-2 
-unnamed_net61	S10-7 L25-1 C38-2 
-unnamed_net60	L25-2 C39-2 L26-1 
-unnamed_net59	C40-2 S10-2 L26-2 
-unnamed_net58	S9-6 S9-3 R30-2 
-unnamed_net57	S9-7 L23-1 C35-2 
-unnamed_net56	L23-2 C36-2 L24-1 
-unnamed_net55	C37-2 S9-2 L24-2 
-unnamed_net54	S8-6 S8-3 R29-2 
-unnamed_net53	S8-7 L21-1 C32-2 
-unnamed_net52	L21-2 C33-2 L22-1 
-unnamed_net51	C34-2 S8-2 L22-2 
-unnamed_net50	S2-6 S2-3 R24-2 
-unnamed_net49	S2-7 L11-1 C17-2 
-unnamed_net48	L11-2 C18-2 L12-1 
-unnamed_net47	C19-2 S2-2 L12-2 
-unnamed_net46	S5-6 S5-3 R27-2 
-unnamed_net45	S5-7 L17-1 C26-2 
-unnamed_net44	L17-2 C27-2 L18-1 
-unnamed_net43	C28-2 S5-2 L18-2 
-unnamed_net42	S4-6 S4-3 R26-2 
-unnamed_net41	S4-7 L15-1 C23-2 
-unnamed_net40	L15-2 C24-2 L16-1 
-unnamed_net39	C25-2 S4-2 L16-2 
-unnamed_net38	S3-6 S3-3 R25-2 
+unnamed_net87	S6-6 S6-3 
+unnamed_net86	S10-6 
+unnamed_net85	S10-3 
+unnamed_net84	S9-6 
+unnamed_net83	S9-3 
+unnamed_net82	S8-6 
+unnamed_net81	S8-3 
+unnamed_net80	S7-6 
+unnamed_net79	S10-4 S9-4 S8-4 S6-7 S7-4 
+unnamed_net78	S7-3 
+unnamed_net77	S5-6 
+unnamed_net76	S5-3 
+unnamed_net75	S4-6 
+unnamed_net74	S4-3 
+unnamed_net73	S3-6 
+unnamed_net72	S3-3 
+unnamed_net71	S2-6 
+unnamed_net70	S5-5 S4-5 S3-5 S6-2 S2-5 
+unnamed_net69	S5-4 S4-4 S3-4 S1-7 S2-4 
+unnamed_net68	S2-3 
+LP1	Q1-3 S7-8 S2-8 D9-2 
+unnamed_net67	R9-2 D9-1 
+LP2	Q2-3 S8-8 S3-8 D8-2 
+unnamed_net66	R8-2 D8-1 
+LP3	Q3-3 S9-8 S4-8 D7-2 
+unnamed_net65	R7-2 D7-1 
+LP4	Q4-3 S10-8 S5-8 D6-2 
+unnamed_net64	R6-2 D6-1 
+ANT1	Q5-3 S11-8 D5-2 
+unnamed_net63	R5-2 D5-1 
+ANT2	Q6-3 S12-8 D4-2 
+unnamed_net62	R4-2 D4-1 
+ANT3	Q7-3 S13-8 D3-2 
+unnamed_net61	R3-2 D3-1 
+ANT4	Q8-3 S14-8 D2-2 
+unnamed_net60	R2-2 D2-1 
+TX	Q9-3 S1-8 S6-8 D1-2 
+unnamed_net59	R1-2 D1-1 
+unnamed_net58	S7-7 L19-1 C29-2 
+unnamed_net57	L19-2 C30-2 L20-1 
+unnamed_net56	C31-2 S7-2 L20-2 
+unnamed_net55	S10-7 L25-1 C38-2 
+unnamed_net54	L25-2 C39-2 L26-1 
+unnamed_net53	C40-2 S10-2 L26-2 
+unnamed_net52	S9-7 L23-1 C35-2 
+unnamed_net51	L23-2 C36-2 L24-1 
+unnamed_net50	C37-2 S9-2 L24-2 
+unnamed_net49	S8-7 L21-1 C32-2 
+unnamed_net48	L21-2 C33-2 L22-1 
+unnamed_net47	C34-2 S8-2 L22-2 
+unnamed_net46	S2-7 L11-1 C17-2 
+unnamed_net45	L11-2 C18-2 L12-1 
+unnamed_net44	C19-2 S2-2 L12-2 
+unnamed_net43	S5-7 L17-1 C26-2 
+unnamed_net42	L17-2 C27-2 L18-1 
+unnamed_net41	C28-2 S5-2 L18-2 
+unnamed_net40	S4-7 L15-1 C23-2 
+unnamed_net39	L15-2 C24-2 L16-1 
+unnamed_net38	C25-2 S4-2 L16-2 
 unnamed_net37	S3-7 L13-1 C20-2 
 unnamed_net36	L13-2 C21-2 L14-1 
 unnamed_net35	C22-2 S3-2 L14-2 
@@ -80,7 +89,7 @@ unnamed_net28	CONN3-2 L2-2
 unnamed_net27	J1-1 S14-5 S14-4 S13-5 S11-5 S12-4 S12-5 S13-4 S11-4 CONN9-1 
 unnamed_net26	J1-2 S7-5 S10-5 S9-5 S8-5 CONN8-1 
 +5V	U3-16 U1-16 R14-2 R13-2 R12-2 R11-2 R10-2 C4-2 U2-3 
-+12V	Q9-E Q1-E Q2-E Q3-E Q4-E Q5-E Q6-E Q7-E Q8-E C1-2 C2-2 C3-2 L1-2 U2-1 
++12V	Q4-2 Q9-2 Q8-2 Q7-2 Q6-2 Q5-2 Q1-2 Q2-2 Q3-2 C1-2 C2-2 C3-2 L1-2 U2-1 
 unnamed_net25	U3-11 C16-1 
 unnamed_net24	L10-1 C16-2 C15-1 
 unnamed_net23	U3-5 C14-2 
@@ -96,7 +105,7 @@ unnamed_net14	C9-2 C8-1 L5-1
 unnamed_net13	S13-2 S13-7 CONN12-1 
 unnamed_net12	S12-2 S12-7 CONN11-1 
 unnamed_net11	S11-2 S11-7 CONN10-1 
-unnamed_net10	S6-6 S6-5 S6-3 CONN7-1 
+unnamed_net10	S6-5 CONN7-1 
 unnamed_net9	S6-4 CONN6-1 
 unnamed_net8	S1-5 CONN5-1 
 unnamed_net7	S1-4 CONN4-1 
@@ -108,5 +117,5 @@ unnamed_net4	U1-14 R12-1 CONN1-3
 unnamed_net3	U1-3 U3-2 R11-1 CONN1-2 
 unnamed_net2	R10-1 U1-2 U3-14 CONN1-1 
 unnamed_net1	S1-2 CONN2-1 
-GND	C31-1 C19-1 S14-6 S14-3 S13-6 S13-3 S12-6 S12-3 S11-6 S11-3 R28-1 C30-1 C29-1 R31-1 C40-1 C39-1 C38-1 R30-1 C37-1 C36-1 C35-1 R29-1 C34-1 C33-1 C32-1 R24-1 C18-1 C17-1 R27-1 C28-1 C27-1 C26-1 R26-1 \
- C25-1 C24-1 C23-1 R25-1 C22-1 C21-1 C20-1 L4-2 L3-2 CONN13-2 CONN9-2 CONN8-2 L10-2 L9-2 L8-2 L7-2 L6-2 L5-2 CONN12-2 CONN11-2 CONN10-2 CONN7-2 CONN6-2 CONN5-2 CONN4-2 CONN2-2 
+GND	C31-1 C19-1 S14-6 S14-3 S13-6 S13-3 S12-6 S12-3 S11-6 S11-3 C30-1 C29-1 C40-1 C39-1 C38-1 C37-1 C36-1 C35-1 C34-1 C33-1 C32-1 C18-1 C17-1 C28-1 C27-1 C26-1 C25-1 C24-1 C23-1 C22-1 C21-1 C20-1 L4-2 \
+ L3-2 CONN13-2 CONN9-2 CONN8-2 L10-2 L9-2 L8-2 L7-2 L6-2 L5-2 CONN12-2 CONN11-2 CONN10-2 CONN7-2 CONN6-2 CONN5-2 CONN4-2 CONN2-2 
