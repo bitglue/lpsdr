@@ -1600,8 +1600,8 @@ $Comp
 L Device:C_Small C23
 U 1 1 5F0CEBCD
 P 7950 850
-F 0 "C23" H 7859 896 50  0000 R CNN
-F 1 "1u" H 7859 805 50  0000 R CNN
+F 0 "C23" H 8042 896 50  0000 L CNN
+F 1 "1u" H 8042 805 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 7950 850 50  0001 C CNN
 F 3 "~" H 7950 850 50  0001 C CNN
 	1    7950 850 
@@ -1644,6 +1644,22 @@ Wire Wire Line
 	8550 750  7950 750 
 Wire Wire Line
 	9150 750  9350 750 
+$Comp
+L Device:C_Small C25
+U 1 1 5EBEFF50
+P 7750 850
+F 0 "C25" H 7659 896 50  0000 R CNN
+F 1 "1u" H 7659 805 50  0000 R CNN
+F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 7750 850 50  0001 C CNN
+F 3 "~" H 7750 850 50  0001 C CNN
+	1    7750 850 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	7950 750  7750 750 
+Connection ~ 7950 750 
+Wire Wire Line
+	7750 950  7950 950 
 Wire Wire Line
 	8950 3750 9700 3750
 Wire Bus Line
@@ -1654,4 +1670,5 @@ Wire Bus Line
 	9500 3200 9500 6200
 Wire Bus Line
 	8150 1050 8150 3200
+Connection ~ 7950 950 
 $EndSCHEMATC
