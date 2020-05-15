@@ -21,7 +21,8 @@ P 8800 1750
 F 0 "J3" H 8850 2775 50  0000 C CNN
 F 1 "Conn_02x20_Odd_Even" H 8850 2776 50  0001 C CNN
 F 2 "Bitglue:Pi_HAT" H 8800 1750 50  0001 C CNN
-F 3 "~" H 8800 1750 50  0001 C CNN
+F 3 "https://www.mouser.com/datasheet/2/527/ssq_th-1370157.pdf" H 8800 1750 50  0001 C CNN
+F 4 "SSQ-120-03-T-D" H 8800 1750 50  0001 C CNN "mpn"
 	1    8800 1750
 	1    0    0    -1  
 $EndComp
@@ -138,6 +139,7 @@ F 0 "C12" H 8050 5150 50  0000 C CNN
 F 1 "0.1u" H 8050 5250 50  0000 C CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 8050 5450 50  0001 C CNN
 F 3 "~" H 8050 5450 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    8050 5450
 	1    0    0    -1  
 $EndComp
@@ -149,6 +151,7 @@ F 0 "C11" H 7850 5150 50  0000 C CNN
 F 1 "10u" H 7850 5250 50  0000 C CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 7850 5450 50  0001 C CNN
 F 3 "~" H 7850 5450 50  0001 C CNN
+F 4 "C1206C106M3PAC" H 0   0   50  0001 C CNN "mpn"
 	1    7850 5450
 	1    0    0    -1  
 $EndComp
@@ -160,6 +163,7 @@ F 0 "C9" H 7350 4750 50  0000 C CNN
 F 1 "0.1u" H 7350 4850 50  0000 C CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 7350 5050 50  0001 C CNN
 F 3 "~" H 7350 5050 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    7350 5050
 	1    0    0    -1  
 $EndComp
@@ -171,6 +175,7 @@ F 0 "C10" H 7550 4750 50  0000 C CNN
 F 1 "1u" H 7550 4850 50  0000 C CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 7550 5050 50  0001 C CNN
 F 3 "~" H 7550 5050 50  0001 C CNN
+F 4 "C1206C105M3RACTU" H 0   0   50  0001 C CNN "mpn"
 	1    7550 5050
 	1    0    0    -1  
 $EndComp
@@ -182,6 +187,7 @@ F 0 "C14" H 8450 5150 50  0000 C CNN
 F 1 "10u" H 8450 5250 50  0000 C CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 8450 5450 50  0001 C CNN
 F 3 "~" H 8450 5450 50  0001 C CNN
+F 4 "C1206C106M3PAC" H 0   0   50  0001 C CNN "mpn"
 	1    8450 5450
 	1    0    0    -1  
 $EndComp
@@ -193,6 +199,7 @@ F 0 "C15" H 8650 5150 50  0000 C CNN
 F 1 "0.1u" H 8650 5250 50  0000 C CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 8650 5450 50  0001 C CNN
 F 3 "~" H 8650 5450 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    8650 5450
 	1    0    0    -1  
 $EndComp
@@ -204,6 +211,7 @@ F 0 "C16" H 9050 4750 50  0000 C CNN
 F 1 "10u" H 9050 4850 50  0000 C CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 9050 5050 50  0001 C CNN
 F 3 "~" H 9050 5050 50  0001 C CNN
+F 4 "C1206C106M3PAC" H 0   0   50  0001 C CNN "mpn"
 	1    9050 5050
 	1    0    0    -1  
 $EndComp
@@ -215,6 +223,7 @@ F 0 "C17" H 9250 4750 50  0000 C CNN
 F 1 "0.1u" H 9250 4850 50  0000 C CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 9250 5050 50  0001 C CNN
 F 3 "~" H 9250 5050 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    9250 5050
 	1    0    0    -1  
 $EndComp
@@ -230,6 +239,7 @@ F 0 "JP3" V 9750 3850 50  0000 R CNN
 F 1 "SolderJumper_3_Bridged12" H 10050 3964 50  0001 C CNN
 F 2 "Jumper:SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm" H 10050 3850 50  0001 C CNN
 F 3 "~" H 10050 3850 50  0001 C CNN
+F 4 "1" H 0   0   50  0001 C CNN "DNP"
 	1    10050 3850
 	0    -1   -1   0   
 $EndComp
@@ -241,6 +251,7 @@ F 0 "JP2" V 9550 3850 50  0000 R CNN
 F 1 "SolderJumper_3_Bridged12" H 9850 3964 50  0001 C CNN
 F 2 "Jumper:SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm" H 9850 3850 50  0001 C CNN
 F 3 "~" H 9850 3850 50  0001 C CNN
+F 4 "1" H 0   0   50  0001 C CNN "DNP"
 	1    9850 3850
 	0    1    -1   0   
 $EndComp
@@ -252,6 +263,7 @@ F 0 "U5" H 8300 5575 50  0000 C CNN
 F 1 "TLV320ADC5140" H 8300 5484 50  0000 C CNN
 F 2 "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.7x2.7mm_ThermalVias" H 8750 2750 50  0001 C CNN
 F 3 "http://www.ti.com/lit/ds/symlink/tlv320adc5140.pdf" H 8650 2650 50  0001 C CNN
+F 4 "TLV320ADC5140IRTWR" H 0   0   50  0001 C CNN "mpn"
 	1    8450 4450
 	1    0    0    -1  
 $EndComp
@@ -379,6 +391,7 @@ F 0 "U4" H 5400 6175 50  0000 C CNN
 F 1 "FST3253" H 5400 6084 50  0000 C CNN
 F 2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" H 5500 4500 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/308/FST3253-D-1810121.pdf" H 5550 4650 50  0001 C CNN
+F 4 "FST3253MTCX" H 0   0   50  0001 C CNN "mpn"
 	1    5350 5450
 	1    0    0    -1  
 $EndComp
@@ -392,6 +405,7 @@ F 0 "R3" V 3443 4600 50  0000 C CNN
 F 1 "82" V 3534 4600 50  0000 C CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 3580 4600 50  0001 C CNN
 F 3 "~" H 3650 4600 50  0001 C CNN
+F 4 "CR1206-FX-82R0ELF" H 0   0   50  0001 C CNN "mpn"
 	1    3650 4600
 	0    1    1    0   
 $EndComp
@@ -403,6 +417,7 @@ F 0 "R4" V 3443 5400 50  0000 C CNN
 F 1 "82" V 3534 5400 50  0000 C CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 3580 5400 50  0001 C CNN
 F 3 "~" H 3650 5400 50  0001 C CNN
+F 4 "CR1206-FX-82R0ELF" H 0   0   50  0001 C CNN "mpn"
 	1    3650 5400
 	0    1    1    0   
 $EndComp
@@ -431,6 +446,7 @@ F 0 "C4" H 4850 5900 50  0000 R CNN
 F 1 "0.1u" H 4850 6000 50  0000 R CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 4950 5950 50  0001 C CNN
 F 3 "~" H 4950 5950 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    4950 5950
 	1    0    0    -1  
 $EndComp
@@ -484,6 +500,7 @@ F 0 "J2" H 1650 4380 50  0000 L CNN
 F 1 "Conn_Coaxial" H 1480 4597 50  0001 C CNN
 F 2 "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount" H 1550 4450 50  0001 C CNN
 F 3 " ~" H 1550 4450 50  0001 C CNN
+F 4 "CON-SMA-EDGE-S" H 0   0   50  0001 C CNN "mpn"
 	1    1550 4450
 	-1   0    0    -1  
 $EndComp
@@ -495,6 +512,7 @@ F 0 "T2" H 3050 5578 50  0000 C CNN
 F 1 "2873002402" H 3050 5487 50  0000 C CNN
 F 2 "Bitglue:Binocular_Bifilar_Seconndary" H 3050 5000 50  0001 C CNN
 F 3 "~" H 3050 5000 50  0001 C CNN
+F 4 "2873002402" H 0   0   50  0001 C CNN "mpn"
 	1    3050 5000
 	1    0    0    -1  
 $EndComp
@@ -548,6 +566,7 @@ F 0 "C7" H 6565 5246 50  0000 L CNN
 F 1 "0.1u" H 6565 5155 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 6488 5050 50  0001 C CNN
 F 3 "~" H 6450 5200 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    6450 5200
 	1    0    0    -1  
 $EndComp
@@ -565,6 +584,7 @@ F 0 "C8" H 6565 5646 50  0000 L CNN
 F 1 "0.1u" H 6565 5555 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 6488 5450 50  0001 C CNN
 F 3 "~" H 6450 5600 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    6450 5600
 	1    0    0    -1  
 $EndComp
@@ -584,6 +604,7 @@ F 0 "U3" H 5400 4625 50  0000 C CNN
 F 1 "FST3253" H 5400 4534 50  0000 C CNN
 F 2 "Package_SO:SOIC-16_3.9x9.9mm_P1.27mm" H 5500 2950 50  0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/308/FST3253-D-1810121.pdf" H 5550 3100 50  0001 C CNN
+F 4 "FST3253MTCX" H 0   0   50  0001 C CNN "mpn"
 	1    5350 3900
 	1    0    0    -1  
 $EndComp
@@ -610,6 +631,7 @@ F 0 "C3" H 4850 4350 50  0000 R CNN
 F 1 "0.1u" H 4850 4450 50  0000 R CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 4950 4400 50  0001 C CNN
 F 3 "~" H 4950 4400 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    4950 4400
 	1    0    0    -1  
 $EndComp
@@ -667,6 +689,7 @@ F 0 "U1" H 2900 6325 50  0000 C CNN
 F 1 "FOX924" H 2900 6234 50  0000 C CNN
 F 2 "Crystal:Crystal_SMD_EuroQuartz_MJ-4Pin_5.0x3.2mm_HandSoldering" H 2600 5800 50  0001 C CNN
 F 3 "" H 2600 5800 50  0001 C CNN
+F 4 "FT5HNBPK27.0-T1" H 2900 6000 50  0001 C CNN "mpn"
 	1    2900 6000
 	1    0    0    -1  
 $EndComp
@@ -678,6 +701,7 @@ F 0 "C1" H 2450 5950 50  0000 R CNN
 F 1 "0.1u" H 2450 6050 50  0000 R CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 2550 6000 50  0001 C CNN
 F 3 "~" H 2550 6000 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    2550 6000
 	1    0    0    -1  
 $EndComp
@@ -761,6 +785,7 @@ F 0 "C5" H 6565 3696 50  0000 L CNN
 F 1 "0.1u" H 6565 3605 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 6488 3500 50  0001 C CNN
 F 3 "~" H 6450 3650 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    6450 3650
 	1    0    0    -1  
 $EndComp
@@ -778,6 +803,7 @@ F 0 "C6" H 6565 4096 50  0000 L CNN
 F 1 "0.1u" H 6565 4005 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 6488 3900 50  0001 C CNN
 F 3 "~" H 6450 4050 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    6450 4050
 	1    0    0    -1  
 $EndComp
@@ -803,6 +829,7 @@ F 0 "R1" V 3443 3400 50  0000 C CNN
 F 1 "82" V 3534 3400 50  0000 C CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 3580 3400 50  0001 C CNN
 F 3 "~" H 3650 3400 50  0001 C CNN
+F 4 "CR1206-FX-82R0ELF" H 0   0   50  0001 C CNN "mpn"
 	1    3650 3400
 	0    1    1    0   
 $EndComp
@@ -814,6 +841,7 @@ F 0 "R2" V 3443 4200 50  0000 C CNN
 F 1 "82" V 3534 4200 50  0000 C CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 3580 4200 50  0001 C CNN
 F 3 "~" H 3650 4200 50  0001 C CNN
+F 4 "CR1206-FX-82R0ELF" H 0   0   50  0001 C CNN "mpn"
 	1    3650 4200
 	0    1    1    0   
 $EndComp
@@ -827,6 +855,7 @@ F 0 "J1" H 1480 4196 50  0000 C CNN
 F 1 "Conn_Coaxial" H 1480 4197 50  0001 C CNN
 F 2 "Connector_Coaxial:SMA_Samtec_SMA-J-P-H-ST-EM1_EdgeMount" H 1550 4050 50  0001 C CNN
 F 3 " ~" H 1550 4050 50  0001 C CNN
+F 4 "CON-SMA-EDGE-S" H 0   0   50  0001 C CNN "mpn"
 	1    1550 4050
 	-1   0    0    -1  
 $EndComp
@@ -838,6 +867,7 @@ F 0 "T1" H 3050 4378 50  0000 C CNN
 F 1 "2873002402" H 3050 4287 50  0000 C CNN
 F 2 "Bitglue:Binocular_Bifilar_Seconndary" H 3050 3800 50  0001 C CNN
 F 3 "~" H 3050 3800 50  0001 C CNN
+F 4 "2873002402" H 0   0   50  0001 C CNN "mpn"
 	1    3050 3800
 	1    0    0    -1  
 $EndComp
@@ -855,6 +885,7 @@ F 0 "U2" H 3700 7825 50  0000 C CNN
 F 1 "Si5351A-B-GM" H 3700 7734 50  0000 C CNN
 F 2 "Package_DFN_QFN:QFN-20-1EP_4x4mm_P0.5mm_EP2.25x2.25mm" H 3800 8200 50  0001 C CNN
 F 3 "https://www.silabs.com/documents/public/data-sheets/Si5351-B.pdf" H 3800 8300 50  0001 C CNN
+F 4 "SI5351A-B-GM" H 0   0   50  0001 C CNN "mpn"
 	1    3700 6800
 	1    0    0    -1  
 $EndComp
@@ -866,6 +897,7 @@ F 0 "C2" H 2950 7400 50  0000 C CNN
 F 1 "0.1u" H 2950 7300 50  0000 C CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 2950 7600 50  0001 C CNN
 F 3 "~" H 2950 7600 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    2950 7600
 	1    0    0    -1  
 $EndComp
@@ -884,6 +916,7 @@ F 0 "JP1" V 2050 6368 50  0000 L CNN
 F 1 "SolderJumper_3_Bridged12" H 2050 6414 50  0001 C CNN
 F 2 "Jumper:SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm" H 2050 6300 50  0001 C CNN
 F 3 "~" H 2050 6300 50  0001 C CNN
+F 4 "1" V 2050 6300 50  0001 C CNN "DNP"
 	1    2050 6300
 	0    -1   -1   0   
 $EndComp
@@ -954,6 +987,7 @@ F 0 "C13" H 8250 5150 50  0000 C CNN
 F 1 "1u" H 8250 5250 50  0000 C CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 8250 5450 50  0001 C CNN
 F 3 "~" H 8250 5450 50  0001 C CNN
+F 4 "C1206C105M3RACTU" H 0   0   50  0001 C CNN "mpn"
 	1    8250 5450
 	1    0    0    -1  
 $EndComp
@@ -1156,6 +1190,7 @@ F 0 "R6" V 8993 4150 50  0000 C CNN
 F 1 "1k" V 9084 4150 50  0000 C CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 9130 4150 50  0001 C CNN
 F 3 "~" H 9200 4150 50  0001 C CNN
+F 4 "CRCW12061K00FKEBC" H 0   0   50  0001 C CNN "mpn"
 	1    9200 4150
 	0    1    1    0   
 $EndComp
@@ -1308,6 +1343,7 @@ F 0 "U6" H 6500 2850 50  0000 C CNN
 F 1 "CAT24C32" H 6250 2850 50  0000 R CNN
 F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 6350 2600 50  0001 C CNN
 F 3 "https://www.onsemi.cn/PowerSolutions/document/CAT24C256-D.PDF" H 6350 2600 50  0001 C CNN
+F 4 "CAT24C32WI-GT3" H 0   0   50  0001 C CNN "mpn"
 	1    6350 2600
 	1    0    0    -1  
 $EndComp
@@ -1319,6 +1355,7 @@ F 0 "R5" H 7080 2254 50  0000 R CNN
 F 1 "1k" H 7080 2345 50  0000 R CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 7080 2300 50  0001 C CNN
 F 3 "~" H 7150 2300 50  0001 C CNN
+F 4 "CRCW12061K00FKEBC" H 0   0   50  0001 C CNN "mpn"
 	1    7150 2300
 	-1   0    0    1   
 $EndComp
@@ -1330,6 +1367,7 @@ F 0 "R7" H 7330 2254 50  0000 R CNN
 F 1 "3k9" H 7330 2345 50  0000 R CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 7330 2300 50  0001 C CNN
 F 3 "~" H 7400 2300 50  0001 C CNN
+F 4 "CRCW12063K90FKEAC" H 0   0   50  0001 C CNN "mpn"
 	1    7400 2300
 	-1   0    0    1   
 $EndComp
@@ -1341,6 +1379,7 @@ F 0 "R8" H 7630 2254 50  0000 R CNN
 F 1 "3k9" H 7630 2345 50  0000 R CNN
 F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 7630 2300 50  0001 C CNN
 F 3 "~" H 7700 2300 50  0001 C CNN
+F 4 "CRCW12063K90FKEAC" H 0   0   50  0001 C CNN "mpn"
 	1    7700 2300
 	-1   0    0    1   
 $EndComp
@@ -1389,6 +1428,7 @@ F 0 "C18" H 6892 2346 50  0000 L CNN
 F 1 "0.1u" H 6892 2255 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 6800 2300 50  0001 C CNN
 F 3 "~" H 6800 2300 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    6800 2300
 	1    0    0    -1  
 $EndComp
@@ -1492,6 +1532,7 @@ F 0 "C22" H 2750 7400 50  0000 C CNN
 F 1 "0.1u" H 2750 7300 50  0000 C CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 2750 7600 50  0001 C CNN
 F 3 "~" H 2750 7600 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    2750 7600
 	1    0    0    -1  
 $EndComp
@@ -1503,6 +1544,7 @@ F 0 "C21" H 2550 7400 50  0000 C CNN
 F 1 "0.1u" H 2550 7300 50  0000 C CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 2550 7600 50  0001 C CNN
 F 3 "~" H 2550 7600 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    2550 7600
 	1    0    0    -1  
 $EndComp
@@ -1514,6 +1556,7 @@ F 0 "C20" H 2350 7400 50  0000 C CNN
 F 1 "0.1u" H 2350 7300 50  0000 C CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 2350 7600 50  0001 C CNN
 F 3 "~" H 2350 7600 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    2350 7600
 	1    0    0    -1  
 $EndComp
@@ -1525,6 +1568,7 @@ F 0 "C19" H 2150 7400 50  0000 C CNN
 F 1 "0.1u" H 2150 7300 50  0000 C CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 2150 7600 50  0001 C CNN
 F 3 "~" H 2150 7600 50  0001 C CNN
+F 4 "C1206C104M5RAC" H 0   0   50  0001 C CNN "mpn"
 	1    2150 7600
 	1    0    0    -1  
 $EndComp
@@ -1604,6 +1648,7 @@ F 0 "C23" H 8042 896 50  0000 L CNN
 F 1 "1u" H 8042 805 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 7950 850 50  0001 C CNN
 F 3 "~" H 7950 850 50  0001 C CNN
+F 4 "C1206C105M3RACTU" H 0   0   50  0001 C CNN "mpn"
 	1    7950 850 
 	1    0    0    -1  
 $EndComp
@@ -1615,6 +1660,7 @@ F 0 "C24" H 9442 896 50  0000 L CNN
 F 1 "1u" H 9442 805 50  0000 L CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 9350 850 50  0001 C CNN
 F 3 "~" H 9350 850 50  0001 C CNN
+F 4 "C1206C105M3RACTU" H 0   0   50  0001 C CNN "mpn"
 	1    9350 850 
 	1    0    0    -1  
 $EndComp
@@ -1652,6 +1698,7 @@ F 0 "C25" H 7659 896 50  0000 R CNN
 F 1 "1u" H 7659 805 50  0000 R CNN
 F 2 "Capacitor_SMD:C_1206_3216Metric_Pad1.42x1.75mm_HandSolder" H 7750 850 50  0001 C CNN
 F 3 "~" H 7750 850 50  0001 C CNN
+F 4 "C1206C105M3RACTU" H 0   0   50  0001 C CNN "mpn"
 	1    7750 850 
 	1    0    0    -1  
 $EndComp
@@ -1660,6 +1707,7 @@ Wire Wire Line
 Connection ~ 7950 750 
 Wire Wire Line
 	7750 950  7950 950 
+Connection ~ 7950 950 
 Wire Wire Line
 	8950 3750 9700 3750
 Wire Bus Line
@@ -1670,5 +1718,4 @@ Wire Bus Line
 	9500 3200 9500 6200
 Wire Bus Line
 	8150 1050 8150 3200
-Connection ~ 7950 950 
 $EndSCHEMATC
